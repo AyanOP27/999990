@@ -96,7 +96,7 @@ function draw() {
   text("EPIC ARCHERY", width / 2, 100);
 
   // Arrow count
-  fill("#FFFF");
+  fill("blue");
   textAlign("center");
   textSize(30);
   text("Remaing Arrow:" + numberOfArrows, 200, 100);
